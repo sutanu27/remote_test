@@ -1,4 +1,8 @@
 2nd file
 1st modification
+<<<<<<< Updated upstream
 stashing and stashing
 
+=======
+stash implement
+>>>>>>> Stashed changes
